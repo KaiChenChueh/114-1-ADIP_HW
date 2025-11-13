@@ -1,0 +1,3 @@
+/home/stanley/NTUT_master/ADIP/HW3/build/CMakeFiles/HW3.dir
+/home/stanley/NTUT_master/ADIP/HW3/build/CMakeFiles/edit_cache.dir
+/home/stanley/NTUT_master/ADIP/HW3/build/CMakeFiles/rebuild_cache.dir

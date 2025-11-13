@@ -1,0 +1,3 @@
+/home/stanley/NTUT_master/ADIP/HW#5_114318047/code/build/CMakeFiles/HW5.dir
+/home/stanley/NTUT_master/ADIP/HW#5_114318047/code/build/CMakeFiles/edit_cache.dir
+/home/stanley/NTUT_master/ADIP/HW#5_114318047/code/build/CMakeFiles/rebuild_cache.dir
